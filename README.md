@@ -1,3 +1,3 @@
-#### IN ACTION
+## Live version
 
-[Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
+[mocan-react-tab-app.netlify.app](https://mocan-react-tab-app.netlify.app/)
